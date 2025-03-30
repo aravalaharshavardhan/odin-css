@@ -4,11 +4,13 @@
     right: 20px;
     display: flex;
     gap: 20px;
+    background-color: #1F2937;
 }
 .link1{
     font-family: 'Roboto' sans-serif;
     font-size:18px;
     color: #E5E7EB;
+    margin-top: 0;
 }
 .title{
     font-family: 'Roboto', sans-serif;
@@ -24,6 +26,7 @@
 
 .section1{
     background-color:#1F2937;
+    padding:50px;
 }
 .signup{
     background-color:#3882F6;
@@ -47,5 +50,61 @@
     background-color:#F9FAF8;
 }
 
+.figcaption{
+    align-content:flex-end;
+    display: block;
+    vertical-align:auto;
+}
+.quote{
+    font-family: 'Roboto',sans-serif;
+    font-style: light italic;
+    font-size: 36px;
+    color:#1F2937;
+    display: block;
+    
+}
+.author{
+    font-family: 'Roboto',sans-serif;
+    font-size: 24px;
+    color:#1F2937;
+    display: block ;
+    margin-left: 200px;
+}
 
+.section3{
+    background-color:#E5E7EB;
+    display:block;
+    padding: 100px;
+}
 
+.section4{
+    background-color: #F9FAF8;
+    display:flex;
+    padding:200px;
+    align-items: center;
+
+}
+.blue{
+    background-color: #3882F6;
+    color:#F9FAF8;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    border-radius: 10px;
+    font-family: 'Roboto',sans-serif;
+    
+}
+
+.footerb{
+    background-color: #1F2937;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.content{
+    
+    color:#F9FAF8;
+    padding
+
+}
